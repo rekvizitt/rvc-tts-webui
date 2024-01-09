@@ -1,3 +1,8 @@
+## My google colab version
+My idea was to create a google colab version of this app to use in my project that I made before. I was already using this application on my computer and it was slow and loaded my computer. So I decided to make a notepad in google colab to improve the performance.
+
+You can find google colab notepad here: [link to colab](https://colab.research.google.com/drive/1QH9hLG7Pc7IDXHOq5lnWvf3avE2G0RmB)
+
 # RVC Text-to-Speech WebUI
 
 This is a text-to-speech Gradio webui for [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) models, using [edge-tts](https://github.com/rany2/edge-tts).
@@ -83,3 +88,5 @@ ERROR: Could not build wheels for fairseq, which is required to install pyprojec
 
 Maybe fairseq needs Microsoft C++ Build Tools.
 [Download installer](https://visualstudio.microsoft.com/ja/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16) and install it.
+
+
