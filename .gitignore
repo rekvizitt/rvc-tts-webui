@@ -4,3 +4,4 @@ __pycache__/
 hubert_base.pt
 rmvpe.pt
 *.json
+mycreds.txt
