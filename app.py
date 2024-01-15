@@ -361,5 +361,5 @@ with app:
             inputs=[tts_text, tts_voice],
         )
 
-
-app.launch(inbrowser=True, share=True)
+# app.launch(inbrowser=True, share=True)
+app.launch(share=True)
