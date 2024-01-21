@@ -1,5 +1,8 @@
 import sys
 from gradio_client import Client
+import codecs
+
+sys.stdout = codecs.getwriter("utf-8")(sys.stdout.detach())
 
 args = sys.argv
 
